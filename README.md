@@ -1,5 +1,7 @@
 # Concept → 3D
 
+**🔗 바로 실행해 보기:** https://concept3dagent-hrbpbpxdgntcgdi7qwnnhu.streamlit.app
+
 컨셉 이미지를 올리면 **ADK 에이전트**가 분석하고, **MCP 서버**의 도구로 3D 모델(`.glb`)을 만들어 주는 파이썬 프로젝트입니다.
 
 ![컨셉 이미지가 전처리를 거쳐 3D 모델(.glb)이 되는 실제 실행 결과](docs/images/pipeline_result.png)
